@@ -1,13 +1,18 @@
 # Exemplos de Testes de Hipóteses
 
 Este repositório contém exemplos práticos de testes de hipóteses estatísticas, com código e explicações detalhadas.
-## 1.0 Apresentação do problema
-Suponha que uma bióloga gostaria de saber se altura média de uma certa espécie de planta é igual a 15 cm. Ela coleta amostras aleatórias de 12 plantas e anota cada uma de suas alturas em cm.
+## 1.0 Apresentação do Problema #02
+
+Pesquisadores gostariam de saber se duas espécies diferentes de plantas tem a mesma 
+altura média. Eles coletaram amostras aleatórias de 20 plantas de cada espécie.
 
 ## Conteúdo
 
 * `teste_t.py`: Exemplo de teste t para comparar médias.
-* `df = [14, 14, 16, 13, 12, 17, 15, 14, 15, 13, 15, 14]`
+*   ```
+    df1 = np.array([14, 15, 15, 16, 13, 8, 14, 17, 16, 14, 19, 20, 21, 15, 15, 16, 16, 13, 14, 12])
+    df2 = np.array([15, 17, 14, 17, 14, 8, 12, 19, 19, 14, 17, 22, 24, 16, 13, 16, 13, 18, 15, 13])
+    ```
 
 ## Diagrama com a descrição do problema e a escolha do teste
 ![Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](diagrams/Diagram.drawio.png)
@@ -19,7 +24,8 @@ Suponha que uma bióloga gostaria de saber se altura média de uma certa espéci
 #### 3.1.2 Independência
 #### 3.1.3 Normalidade
 
-### 4.1 Aplicação do One Sample t-test
+### 4.1 Aplicação do 
+    ? two Sample t-test
 #### Brever conclusao
 #### Estatística t: -1.6848470783484626
 #### Valor p: 0.12014460742498101
