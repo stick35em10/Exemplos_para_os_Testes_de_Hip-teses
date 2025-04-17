@@ -12,6 +12,7 @@ Suponha que uma bióloga gostaria de saber se altura média de uma certa espéci
 ## Diagrama com a descrição do problema e a escolha do teste
 [Diagrama com a descrição do problema e a escolha do teste](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Hstick35em10%2FExemplos_para_os_Testes_de_Hip-teses%2Fmain%2Fdiagrams%2FUntitled%20Diagram.drawio)
 
+[Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Hstick35em10%2FExemplos_para_os_Testes_de_Hip-teses%2Fmain%2Fdiagrams%2FUntitled%20Diagram.drawio)
 ## Instruções
 
 ### 3.1 Avaliando os pressupostos sobre os dados
