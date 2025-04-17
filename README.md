@@ -23,7 +23,7 @@ Suponha que uma bióloga gostaria de saber se altura média de uma certa espéci
 #### Brever conclusao
 #### Estatística t: -1.6848470783484626
 #### Valor p: 0.12014460742498101
-#### Não rejeitamos a hipótese nula. Não há evidências estatísticas de que a média da amostra seja diferente da média populacional.
+#### Não rejeitou-se a hipótese nula. Não há evidências estatísticas de que a média da amostra seja diferente da média populacional.
 
 #### A um nivel significancia de 0.05 Não rejeitamos a hipótese nula. Não há evidências estatísticas de que a média da amostra de 14.333333333333334 seja diferente da média populacional de 15.
 #### A diferencao de 0.67, entre as  médias 15 - 14.33, resulta da aleatoriedade dos dados e não é significativa ao nível de significância de 0.05.
