@@ -15,7 +15,7 @@ altura média. Eles coletaram amostras aleatórias de 20 plantas de cada espéci
     ```
 
 ## Diagrama com a descrição do problema e a escolha do teste
-![Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](diagrams/"Untitled Diagram.drawio.png")
+![Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](./diagrams/Untitled%20Diagram.drawio.png)
 
 ## Instruções
 
