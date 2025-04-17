@@ -15,7 +15,7 @@ altura média. Eles coletaram amostras aleatórias de 20 plantas de cada espéci
     ```
 
 ## Diagrama com a descrição do problema e a escolha do teste
-![Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](diagrams/Diagram.drawio.png)
+![Visualizar o diagrama com a descrição do problema e como escolheu-se o teste](diagrams/Untitled Diagram.drawio.png)
 
 ## Instruções
 
@@ -24,8 +24,7 @@ altura média. Eles coletaram amostras aleatórias de 20 plantas de cada espéci
 #### 3.1.2 Independência
 #### 3.1.3 Normalidade
 
-### 4.1 Aplicação do 
-    ? two Sample t-test
+### 4.1 Aplicação do ? two Sample t-test
 #### Brever conclusao
 #### Estatística t: -1.6848470783484626
 #### Valor p: 0.12014460742498101
