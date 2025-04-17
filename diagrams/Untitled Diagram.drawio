@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FnyVdrVR2PXLPaVhcqWt-1" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;y=altura&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;ϵ&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;EN-US;mso-bidi-language:AR-SA&quot;&gt; real e (n=12) &amp;gt; 5&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-1" value="&lt;span style=&quot;background-color: rgb(0, 204, 0);&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;y=altura&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;ϵ&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;EN-US;mso-bidi-language:AR-SA&quot;&gt; real e (n=12) &amp;gt; 5&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="30" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -27,7 +27,7 @@
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-5" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="372" y="166" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FnyVdrVR2PXLPaVhcqWt-6" value="μ - x̄" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-6" value="&lt;font&gt;&lt;font style=&quot;color: rgb(26, 26, 26); background-color: rgb(0, 153, 0);&quot;&gt;μ -&lt;/font&gt;&lt;font style=&quot;background-color: rgb(0, 153, 0); color: rgb(0, 0, 0);&quot;&gt; x̄&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="226" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FnyVdrVR2PXLPaVhcqWt-6">
@@ -50,14 +50,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FnyVdrVR2PXLPaVhcqWt-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Problema #01&lt;/h1&gt;&lt;p&gt;Suponha que uma bióloga gostaria de saber se altura média de uma certa espécie de &lt;br/&gt;planta é igual a 15 cm. Ela coleta amostras aleatórias de 12 plantas and anota cada uma &lt;br/&gt;de suas alturas em cm.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Problema #02&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Pesquisadores gostariam de saber se duas espécies diferentes de plantas tem a mesma &lt;br/&gt;altura média. Eles coletaram amostras aleatórias de 20 plantas de cada espécie.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pressupostos&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;amostras:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;aleatórias,&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;independentes e&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;com distribuicao normal&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="210" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="FnyVdrVR2PXLPaVhcqWt-14" value="#Grupo=1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="332" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-14" value="&lt;span style=&quot;background-color: rgb(204, 0, 0);&quot;&gt;#Grupo=1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -81,6 +81,34 @@
         </mxCell>
         <mxCell id="FnyVdrVR2PXLPaVhcqWt-20" value="One Sample t-teste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-22" value="&lt;span style=&quot;background-color: rgb(0, 153, 0);&quot;&gt;#Grupo=2&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="401" as="sourcePoint" />
+            <mxPoint x="629" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-27" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FnyVdrVR2PXLPaVhcqWt-23">
+          <mxGeometry x="-0.1765" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="441" as="sourcePoint" />
+            <mxPoint x="522" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-25" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#009900;" vertex="1" connectable="0" parent="FnyVdrVR2PXLPaVhcqWt-24">
+          <mxGeometry x="-0.2" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnyVdrVR2PXLPaVhcqWt-26" value="&lt;b style=&quot;background-color: rgb(0, 153, 0);&quot;&gt;two Sample t-teste&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="495" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
